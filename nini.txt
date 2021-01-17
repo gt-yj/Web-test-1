@@ -1,0 +1,1 @@
+This is mini.txt, it would be uploaded to the master branch in my git repo.
